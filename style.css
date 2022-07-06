@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    height: 100%;
+    background: #191919;
+    color: #fff;
+}
+
+
+/*Main*/
+
+
+.main__header {
+    text-align: center;
+    font-family:'Kanit',sans-serif ;   
+   
+}
+
+.main__title {
+    font-weight:900;
+    font-size: 40px;
+    
+}
+
+.main__subtitle {
+    line-height: 1.5;
+    font-size: 16px ;
+    font-weight: 400;
+    
+}
+
+.main__img {
+   
+}
+
+
+.main__picture-ball {
+    width: 204px ;
+    height:230px ;
+}
+
+.main__picture-ropes {
+    width: 204px ;
+    height:230px ;
+}
+
+.main__picture-barbell {
+    width: 204px ;
+    height:230px ;
+}
+
+.main__picture-exercise-bike {
+    width: 204px ;
+    height:230px ;
+}
