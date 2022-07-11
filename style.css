@@ -9,10 +9,10 @@ body {
 /*Main*/
 
 
-.main__header {
+:root {
     text-align: center;
     font-family:'Kanit',sans-serif ;   
-   display: flex;
+    display: flex;
 }
 
 .main__title {
